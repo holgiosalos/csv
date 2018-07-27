@@ -1,0 +1,3 @@
+rule.name,rule.payout,expectedCompensation,scenarioName
+Regla 2.1,90%,45.0,Scenario 2
+Regla 2.2,70%,25,Scenario 3
